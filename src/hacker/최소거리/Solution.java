@@ -22,7 +22,7 @@ class Result {
         int current = 0;
 
         for (int i=0; i<a.size(); i++) {
-            n[i] = (int)a.get(i);
+            n[i] = a.get(i);
         }
 
         Map<Integer, Integer> param = new HashMap<>();
