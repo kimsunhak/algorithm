@@ -1,2 +1,3 @@
-# algorithm
-algorithm 연습
+# PS
+
+## 하루에 못해도 하나씩 알고리즘을 연습하자..
