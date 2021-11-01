@@ -1,4 +1,4 @@
-package boj.재귀;
+package boj.StepByStep.재귀;
 
 import java.util.Scanner;
 

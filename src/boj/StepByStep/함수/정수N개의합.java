@@ -1,4 +1,4 @@
-package boj.함수;
+package boj.StepByStep.함수;
 
 
 /**
