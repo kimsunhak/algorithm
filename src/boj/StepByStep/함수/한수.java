@@ -16,7 +16,7 @@ public class 한수 {
             System.out.println(number);
         } else {
             int count = 99;
-            for (int i=100; i<number; i++) {
+            for (int i=100; i<=number; i++) {
                 if (hanSu(i)) {
                     count++;
                 }
@@ -28,7 +28,6 @@ public class 한수 {
     public static boolean hanSu(int number) {
         int numberOne = number/100 - (number%100 / 10);
         int numberTwo = (number%100/10) - number%10;
-
         return numberOne == numberTwo;
     }
 }
