@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Array Dynamic Programming
+##### Tags: `Array` `Dynamic Programming`
 
 ```kotlin
 class Solution {

@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Array Binary Search
+##### Tags: `Array` `Binary Search`
 
 ```kotlin
 class Solution {

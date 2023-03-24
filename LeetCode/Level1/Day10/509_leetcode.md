@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Math Dynamic Programming Recursion Memoization
+##### Tags: `Math` `Dynamic Programming` `Recursion` `Memoization`
 
 ```kotlin
 class Solution {

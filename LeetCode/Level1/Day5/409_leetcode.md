@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Hash Table String Greedy
+##### `Hash Table` `String` `Greedy`
 
 ```kotlin
 class Solution {

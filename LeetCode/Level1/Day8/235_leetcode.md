@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Tree Depth-First Search Binary Search Tree Binary Tree
+##### Tags: `Tree` `Depth-First Search` `Binary Search Tree` `Binary Tree`
 
 ```kotlin
 /**
