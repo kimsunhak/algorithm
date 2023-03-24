@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Array Depth-First Search Breadth-First Search Union Find Matrix
+##### Tags: `Array` `Depth-First Search` `Breadth-First Search` `Union Find` `Matrix`
 
 ```kotlin
 class Solution {

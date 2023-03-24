@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Math Dynamic Programming Combinatorics
+##### Tags: `Math` `Dynamic Programming` `Combinatorics`
 
 ```kotlin
 class Solution {

@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Linked List Recursion
+##### Tags: `Linked List` `Recursion`
 
 ```kotlin
 /**

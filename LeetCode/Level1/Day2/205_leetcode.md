@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: HashTable String
+##### Tags: `HashTable` `String`
 
 ```kotlin
 class Solution {

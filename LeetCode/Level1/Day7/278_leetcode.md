@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Binary Search Interactive
+##### Tags: `Binary Search` `Interactive`
 
 ```kotlin
 /* The isBadVersion API is defined in the parent class VersionControl.

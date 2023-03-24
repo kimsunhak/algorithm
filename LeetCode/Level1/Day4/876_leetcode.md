@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Linked List Two Pointers
+##### Tags: `Linked List` `Two Pointers`
 
 ```kotlin
 /**

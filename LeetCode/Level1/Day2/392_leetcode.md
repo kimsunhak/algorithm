@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Two Pointers String Dynamic Programming
+##### Tags: `Two Pointers` `String` `Dynamic Programming`
 
 ```kotlin
 class Solution {

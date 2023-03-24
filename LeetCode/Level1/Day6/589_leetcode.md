@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Stack Tree Depth-First Search
+##### Tags: `Stack` `Tree` `Depth-First Search`
 
 ```kotlin
 /**

@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Tree Breadth-First Search Binary Tree
+##### Tags: `Tree` `Breadth-First Search` `Binary Tree`
 
 ```kotlin
 /**

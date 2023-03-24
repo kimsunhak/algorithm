@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Array Prefix Sum
+##### Tags: `Array` `Prefix Sum`
 
 ```kotlin
 class Solution {

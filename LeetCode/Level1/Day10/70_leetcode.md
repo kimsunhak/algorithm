@@ -2,7 +2,7 @@
 
 ##### Language : Kotlin
 
-##### Tags: Math Dynamic Programming Memoization
+##### Tags: `Math` `Dynamic Programming` `Memoization`
 
 ```kotlin
 class Solution {
