@@ -24,3 +24,21 @@ class Solution {
 }
 ```
 
+```kotlin
+class Solution {
+    fun twoSum(nums: IntArray, target: Int): IntArray {
+        val mutableMap: MutableMap<Int, Int> = mutableMapOf()
+        
+        nums.forEachIndexed { i, num -> 
+            if (mutableMap.containsKey(num)) {
+                return intArrayOf(mutableMap[num]!!, i)
+            }
+            mutableMap[target - num] = i
+        }
+        
+        return intArrayOf()
+    }
+}
+
+```
+
