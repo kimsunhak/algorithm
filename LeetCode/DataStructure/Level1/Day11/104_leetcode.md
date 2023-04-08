@@ -24,7 +24,7 @@ class Solution {
 
     private fun dfs(node: TreeNode?): Int {
         if (node == null) return 0
-        return dfs(node.left).coerceAtLeast(dfs(node.right)) + 1
+        return Math.Max(dfs(node.left), (dfs(node.right)) + 1)
     }
 }
 ```
