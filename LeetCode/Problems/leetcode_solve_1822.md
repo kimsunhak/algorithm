@@ -9,7 +9,7 @@ class Solution {
     fun arraySign(nums: IntArray): Int {
         var product = 1
 
-        nums.forEach {
+        nums.forEach { num ->
             when {
                 num == 0 -> return 0
                 num < 0 -> product *= -1
